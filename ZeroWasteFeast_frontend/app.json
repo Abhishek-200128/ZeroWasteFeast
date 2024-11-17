@@ -1,0 +1,89 @@
+{
+  "expo": {
+    "name": "ZeroWasteFeast",
+    "slug": "ZeroWasteFeast",
+    "scheme": "zerowastefeast",
+    "version": "1.2.2",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f6f5f4"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "buildNumber": "3",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app requires access to your camera to allow you to take photos for food recognization.",
+        "NSLocationWhenInUseUsageDescription": "This app requires access to your location to show nearby food donation center.",
+        "NSPhotoLibraryUsageDescription": "This app requires access to your photo library to store and retrieve food images.",
+        "NSPhotoLibraryAddUsageDescription": "This app requires permission to save images to your photo library.",
+        "NSUserTrackingUsageDescription": "This app requires tracking permissions for notifications.",
+        "UIBackgroundModes": [
+          "fetch",
+          "remote-notification"
+        ],
+        "LSMinimumSystemVersion": "12.0"
+      },
+      "bundleIdentifier": "com.johnmonicat.zerowastefeast2024"
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCcOTPltvuKz1oJWAZV1jUrvbhRVinCM3Y"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/ficon.png",
+        "backgroundColor": "#f6f5f4"
+      },
+      "permissions": [
+        "INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "package": "com.johnmonicat.ZeroWasteFeast_frontend",
+      "usesCleartextTraffic": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logo-small.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera."
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b805ea3-4084-4b7d-86d3-0c93d8d15e49"
+      }
+    }
+  }
+}

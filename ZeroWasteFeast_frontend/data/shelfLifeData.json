@@ -1,0 +1,572 @@
+{
+  "Fresh Produce": [
+    {
+      "Food": "Apples",
+      "Shelf life in cupboard": "4 days",
+      "Shelf life in fridge": "1 month",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Avocadoes",
+      "Shelf life in cupboard": "3 days",
+      "Shelf life in fridge": "3 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Bananas",
+      "Shelf life in cupboard": "7 days",
+      "Shelf life in fridge": "Do not refrigerate",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Berries",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Citrus",
+      "Shelf life in cupboard": "1-2 weeks",
+      "Shelf life in fridge": "2 weeks +",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Grapes",
+      "Shelf life in cupboard": "3-5 days",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Kiwi fruit",
+      "Shelf life in cupboard": "2-3 ",
+      "Shelf life in fridge": "1 week ",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Melons",
+      "Shelf life in cupboard": "1 week",
+      "Shelf life in fridge": "1 week",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Peaches",
+      "Shelf life in cupboard": "1 day ",
+      "Shelf life in fridge": "3 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Pears",
+      "Shelf life in cupboard": "2 days ",
+      "Shelf life in fridge": "2 weeks ",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Pineapple",
+      "Shelf life in cupboard": "2 days ",
+      "Shelf life in fridge": "1 week once cut",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Strawberries",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3 days ",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Watermelon",
+      "Shelf life in cupboard": "2-3 days",
+      "Shelf life in fridge": "6-8 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "1-7 days",
+      "Shelf life in fridge": "3-8 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Pre-packaged frozen vegetables",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "12 months",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Canned vegetables",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Asparagus",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3-5 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Beans",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3-6 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Broccoli",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "5-7 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Cabbage",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 months",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Carrots",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-3 months",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Capsicum",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Cauliflower",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Celery",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3-4 weeks",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Corn",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Cucumber",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "10-12 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Eggplants",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "10-12 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Lettuce and mushrooms",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "10-12 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Onions",
+      "Shelf life in cupboard": "1-3 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Peas",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "5-6 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Sweet and white potatoes",
+      "Shelf life in cupboard": "2-4 months",
+      "Shelf life in fridge": "Do not refrigerate",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Tomatoes",
+      "Shelf life in cupboard": "2-5 weeks to ripen",
+      "Shelf life in fridge": "5-7 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "1-3 days",
+      "Shelf life in fridge": "5-7 days",
+      "Shelf life in freezer": "Not recommended"
+    }
+  ],
+  "Meat": [
+    {
+      "Food": "Raw beef, lamb and steak",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3 days",
+      "Shelf life in freezer": "6 months"
+    },
+    {
+      "Food": "Raw pork roast and lamb chops",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3 days",
+      "Shelf life in freezer": "4 months"
+    },
+    {
+      "Food": "Pork sausages and raw pork",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "1-2 months"
+    },
+    {
+      "Food": "Roast beef and roast lamb",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 days",
+      "Shelf life in freezer": "6 months"
+    },
+    {
+      "Food": "Cooked steak",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 days",
+      "Shelf life in freezer": "6 months"
+    },
+    {
+      "Food": "Stewed meat and casseroles",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 days",
+      "Shelf life in freezer": "2-3 months"
+    },
+    {
+      "Food": "Beef mince",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 days",
+      "Shelf life in freezer": "2-3 months"
+    },
+    {
+      "Food": "Pre-packaged ham slices",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks ",
+      "Shelf life in freezer": "1-2 months"
+    },
+    {
+      "Food": "Sausages and salami",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks ",
+      "Shelf life in freezer": "1-2 months"
+    },
+    {
+      "Food": "Raw fish and prawns",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "3-4 months"
+    },
+    {
+      "Food": "Cooked fish and prawns",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3-4 days",
+      "Shelf life in freezer": "4-6 months"
+    },
+    {
+      "Food": "Cooked salmon",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "2 months"
+    },
+    {
+      "Food": "Tinned tuna",
+      "Shelf life in cupboard": "12 months unopened",
+      "Shelf life in fridge": "2 days ",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Crabs and oysters",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2 days",
+      "Shelf life in freezer": "6 months"
+    },
+    {
+      "Food": "Chicken mince and raw poultry",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 days",
+      "Shelf life in freezer": "3 months"
+    },
+    {
+      "Food": "Raw poultry – chicken, duck, turkey and goose",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "3-6 months"
+    },
+    {
+      "Food": "Cooked poultry",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "3-4 days ",
+      "Shelf life in freezer": "3-6 months"
+    },
+    {
+      "Food": "Cooked chicken nuggets",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "1-3 months"
+    },
+    {
+      "Food": "Cooked poultry with stuffing",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "1 month"
+    },
+    {
+      "Food": "Meat juice and gravy",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "2-3 months"
+    },
+    {
+      "Food": "Tofu and meat substitutes",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "4-5 days",
+      "Shelf life in freezer": "6-8 weeks"
+    },
+    {
+      "Food": "Frozen dinners",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "3-4 months"
+    },
+    {
+      "Food": "Frozen dinners",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-3 days",
+      "Shelf life in freezer": "1-4 months"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 days",
+      "Shelf life in freezer": "3-6 months"
+    }
+  ],
+  "Cold Storage": [
+    {
+      "Food": "Milk",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Cream",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "5 days once opened",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Ice-cream",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "1-2 months"
+    },
+    {
+      "Food": "Yoghurt",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1 week",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Hard cheeses",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-3 months",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Cottage and cream cheeses",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Butter",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2 months",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Margarine",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "About 6 months",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "Not recommended ",
+      "Shelf life in fridge": "1-2 weeks ",
+      "Shelf life in freezer": "1-2 months"
+    }
+  ],
+  "Drinks": [
+    {
+      "Food": "Bottled fruit juice",
+      "Shelf life in cupboard": "1-2 weeks",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Canned fruit juice",
+      "Shelf life in cupboard": "6 months max",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Soft drink",
+      "Shelf life in cupboard": "6 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "1 week",
+      "Shelf life in fridge": "1 week",
+      "Shelf life in freezer": "3 months"
+    }
+  ],
+  "Pantry": [
+    {
+      "Food": "Cooked rice",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "5-7 days",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Raw white rice",
+      "Shelf life in cupboard": "12 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Raw brown rice",
+      "Shelf life in cupboard": "6 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Pasta",
+      "Shelf life in cupboard": "6-12 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Cereal",
+      "Shelf life in cupboard": "6-12 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Bread",
+      "Shelf life in cupboard": "5-7 days",
+      "Shelf life in fridge": "1-2 weeks",
+      "Shelf life in freezer": "Approximately 3 months"
+    },
+    {
+      "Food": "Cakes, cookies and muffins",
+      "Shelf life in cupboard": "1 week",
+      "Shelf life in fridge": "1 week",
+      "Shelf life in freezer": "3 months"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "1 week",
+      "Shelf life in fridge": "1 week",
+      "Shelf life in freezer": "3 months"
+    }
+  ],
+  "Others": [
+    {
+      "Food": "Dried fruits and gravy powder",
+      "Shelf life in cupboard": "Approx. 6 months sealed",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Canned fruits and vegetables",
+      "Shelf life in cupboard": "12 months ",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Pate",
+      "Shelf life in cupboard": "3 weeks sealed",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Mayonnaise/salad dressing",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "2-3 months",
+      "Shelf life in freezer": "Do not freeze"
+    },
+    {
+      "Food": "Tomato/barbeque sauce",
+      "Shelf life in cupboard": "4-6 months",
+      "Shelf life in fridge": "4-5 months",
+      "Shelf life in freezer": "Do not freeze"
+    },
+    {
+      "Food": "Baby food",
+      "Shelf life in cupboard": "Approx. 6 months unopened",
+      "Shelf life in fridge": "1-2 days once opened",
+      "Shelf life in freezer": "Do not freeze"
+    },
+    {
+      "Food": "Vegetable oil",
+      "Shelf life in cupboard": "1-3 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Salad oil",
+      "Shelf life in cupboard": "2 months",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Peanut butter",
+      "Shelf life in cupboard": "2-3 months",
+      "Shelf life in fridge": "6 months opened",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Olive oil",
+      "Shelf life in cupboard": "1-2 weeks",
+      "Shelf life in fridge": "Not recommended",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Raw eggs",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "5-6 weeks",
+      "Shelf life in freezer": "Do not freeze"
+    },
+    {
+      "Food": "Hard-boiled eggs/cooked eggs",
+      "Shelf life in cupboard": "Not recommended",
+      "Shelf life in fridge": "1 week",
+      "Shelf life in freezer": "Do not freeze"
+    },
+    {
+      "Food": "Milk chocolate",
+      "Shelf life in cupboard": "7-8 months ",
+      "Shelf life in fridge": "Only refrigerate if necessary",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "Dark chocolate",
+      "Shelf life in cupboard": "1 year",
+      "Shelf life in fridge": "Only refrigerate if necessary",
+      "Shelf life in freezer": "Not recommended"
+    },
+    {
+      "Food": "General",
+      "Shelf life in cupboard": "Dependant on Item",
+      "Shelf life in fridge": "Dependant on Item",
+      "Shelf life in freezer": "Dependant on Item"
+    }
+  ]
+}
