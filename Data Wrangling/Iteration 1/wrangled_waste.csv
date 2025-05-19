@@ -1,0 +1,704 @@
+Year,Jurisdiction,Stream,Management,Fate,Tonnes
+2020,ACT,C&I,Landfill,Disposal,9013.0
+2020,ACT,C&I,Landfill,Energy recovery,8411.0
+2020,ACT,C&I,Recycling,Recycling,415.0
+2020,ACT,MSW,Landfill,Disposal,20354.0
+2020,ACT,MSW,Landfill,Energy recovery,18993.0
+2020,ACT,Total,Landfill,Disposal,29367.0
+2020,ACT,Total,Landfill,Energy recovery,27404.0
+2020,ACT,Total,Recycling,Recycling,415.0
+2020,NSW,C&D,Landfill,Disposal,40.0
+2020,NSW,C&D,Landfill,Energy recovery,14.0
+2020,NSW,C&I,Anaerobic digestion,Recycling,25259.0
+2020,NSW,C&I,Landfill,Disposal,152258.0
+2020,NSW,C&I,Landfill,Energy recovery,52628.0
+2020,NSW,C&I,Recycling,Recycling,71919.0
+2020,NSW,MSW,Landfill,Disposal,589374.0
+2020,NSW,MSW,Landfill,Energy recovery,203719.0
+2020,NSW,MSW,Recycling,Recycling,481356.0
+2020,NSW,Total,Anaerobic digestion,Recycling,25259.0
+2020,NSW,Total,Landfill,Disposal,741672.0
+2020,NSW,Total,Landfill,Energy recovery,256361.0
+2020,NSW,Total,Recycling,Recycling,553275.0
+2020,NT,C&I,Landfill,Disposal,27452.0
+2020,NT,C&I,Landfill,Energy recovery,599.0
+2020,NT,MSW,Landfill,Disposal,38924.0
+2020,NT,MSW,Landfill,Energy recovery,849.0
+2020,NT,Total,Landfill,Disposal,66376.0
+2020,NT,Total,Landfill,Energy recovery,1448.0
+2020,Qld,C&I,Landfill,Disposal,247177.0
+2020,Qld,C&I,Landfill,Energy recovery,100345.0
+2020,Qld,C&I,Recycling,Recycling,25718.0
+2020,Qld,MSW,Landfill,Disposal,448430.0
+2020,Qld,MSW,Landfill,Energy recovery,182047.0
+2020,Qld,Total,Landfill,Disposal,695606.0
+2020,Qld,Total,Landfill,Energy recovery,282392.0
+2020,Qld,Total,Recycling,Recycling,25718.0
+2020,SA,C&I,Landfill,Disposal,21301.0
+2020,SA,C&I,Landfill,Energy recovery,7110.0
+2020,SA,C&I,Recycling,Recycling,15823.0
+2020,SA,C&I,Waste reuse,Waste reuse,4712.0
+2020,SA,MSW,Landfill,Disposal,112331.0
+2020,SA,MSW,Landfill,Energy recovery,37494.0
+2020,SA,Total,Landfill,Disposal,133632.0
+2020,SA,Total,Landfill,Energy recovery,44604.0
+2020,SA,Total,Recycling,Recycling,15823.0
+2020,SA,Total,Waste reuse,Waste reuse,4712.0
+2020,Vic,C&D,Landfill,Disposal,2187.0
+2020,Vic,C&D,Landfill,Energy recovery,1201.0
+2020,Vic,C&D,Recycling,Recycling,105.0
+2020,Vic,C&I,Anaerobic digestion,Recycling,31322.0
+2020,Vic,C&I,Landfill,Disposal,210259.0
+2020,Vic,C&I,Landfill,Energy recovery,115401.0
+2020,Vic,C&I,Recycling,Recycling,24448.0
+2020,Vic,MSW,Landfill,Disposal,399865.0
+2020,Vic,MSW,Landfill,Energy recovery,219466.0
+2020,Vic,MSW,Recycling,Recycling,17915.0
+2020,Vic,Total,Anaerobic digestion,Recycling,31322.0
+2020,Vic,Total,Landfill,Disposal,612311.0
+2020,Vic,Total,Landfill,Energy recovery,336068.0
+2020,Vic,Total,Recycling,Recycling,42468.0
+2020,WA,C&I,Anaerobic digestion,Recycling,18157.0
+2020,WA,C&I,Energy from waste facility,Energy recovery,18157.0
+2020,WA,C&I,Landfill,Disposal,166753.0
+2020,WA,C&I,Landfill,Energy recovery,28574.0
+2020,WA,C&I,Recycling,Recycling,13578.0
+2020,WA,MSW,Landfill,Disposal,324906.0
+2020,WA,MSW,Landfill,Energy recovery,55674.0
+2020,WA,MSW,Recycling,Recycling,24347.0
+2020,WA,Total,Anaerobic digestion,Recycling,18157.0
+2020,WA,Total,Energy from waste facility,Energy recovery,18157.0
+2020,WA,Total,Landfill,Disposal,491659.0
+2020,WA,Total,Landfill,Energy recovery,84248.0
+2020,WA,Total,Recycling,Recycling,37925.0
+2019,ACT,C&I,Landfill,Disposal,10880.0
+2019,ACT,C&I,Landfill,Energy recovery,5140.0
+2019,ACT,C&I,Recycling,Recycling,1718.0
+2019,ACT,MSW,Landfill,Disposal,24220.0
+2019,ACT,MSW,Landfill,Energy recovery,11441.0
+2019,ACT,Total,Landfill,Disposal,35100.0
+2019,ACT,Total,Landfill,Energy recovery,16580.0
+2019,ACT,Total,Recycling,Recycling,1718.0
+2019,NSW,C&I,Anaerobic digestion,Recycling,47779.0
+2019,NSW,C&I,Landfill,Disposal,141908.0
+2019,NSW,C&I,Landfill,Energy recovery,57612.0
+2019,NSW,C&I,Recycling,Recycling,49479.0
+2019,NSW,MSW,Landfill,Disposal,502410.0
+2019,NSW,MSW,Landfill,Energy recovery,203968.0
+2019,NSW,MSW,Recycling,Recycling,398762.0
+2019,NSW,Total,Anaerobic digestion,Recycling,47779.0
+2019,NSW,Total,Landfill,Disposal,644317.0
+2019,NSW,Total,Landfill,Energy recovery,261580.0
+2019,NSW,Total,Recycling,Recycling,448241.0
+2019,NT,C&I,Landfill,Disposal,25501.0
+2019,NT,C&I,Landfill,Energy recovery,109.0
+2019,NT,MSW,Landfill,Disposal,39677.0
+2019,NT,MSW,Landfill,Energy recovery,170.0
+2019,NT,Total,Landfill,Disposal,65178.0
+2019,NT,Total,Landfill,Energy recovery,280.0
+2019,Qld,C&I,Landfill,Disposal,222987.0
+2019,Qld,C&I,Landfill,Energy recovery,93479.0
+2019,Qld,C&I,Recycling,Recycling,62148.0
+2019,Qld,MSW,Landfill,Disposal,419128.0
+2019,Qld,MSW,Landfill,Energy recovery,175703.0
+2019,Qld,Total,Landfill,Disposal,642115.0
+2019,Qld,Total,Landfill,Energy recovery,269181.0
+2019,Qld,Total,Recycling,Recycling,62148.0
+2019,SA,C&I,Landfill,Disposal,19891.0
+2019,SA,C&I,Landfill,Energy recovery,8392.0
+2019,SA,C&I,Recycling,Recycling,13400.0
+2019,SA,C&I,Waste reuse,Waste reuse,4200.0
+2019,SA,MSW,Landfill,Disposal,110029.0
+2019,SA,MSW,Landfill,Energy recovery,46423.0
+2019,SA,Total,Landfill,Disposal,129920.0
+2019,SA,Total,Landfill,Energy recovery,54816.0
+2019,SA,Total,Recycling,Recycling,13400.0
+2019,Vic,C&D,Landfill,Disposal,1932.0
+2019,Vic,C&D,Landfill,Energy recovery,1209.0
+2019,Vic,C&D,Recycling,Recycling,104.0
+2019,Vic,C&I,Anaerobic digestion,Recycling,30687.0
+2019,Vic,C&I,Landfill,Disposal,196216.0
+2019,Vic,C&I,Landfill,Energy recovery,122853.0
+2019,Vic,C&I,Recycling,Recycling,23950.0
+2019,Vic,MSW,Landfill,Disposal,396946.0
+2019,Vic,MSW,Landfill,Energy recovery,248532.0
+2019,Vic,MSW,Recycling,Recycling,16764.0
+2019,Vic,Total,Anaerobic digestion,Recycling,30687.0
+2019,Vic,Total,Landfill,Disposal,595094.0
+2019,Vic,Total,Landfill,Energy recovery,372595.0
+2019,Vic,Total,Recycling,Recycling,40818.0
+2019,WA,C&I,Anaerobic digestion,Recycling,15212.0
+2019,WA,C&I,Landfill,Disposal,152236.0
+2019,WA,C&I,Landfill,Energy recovery,31761.0
+2019,WA,C&I,Recycling,Recycling,9861.0
+2019,WA,MSW,Anaerobic digestion,Recycling,167.0
+2019,WA,MSW,Landfill,Disposal,292299.0
+2019,WA,MSW,Landfill,Energy recovery,60983.0
+2019,WA,MSW,Recycling,Recycling,29624.0
+2019,WA,Total,Anaerobic digestion,Recycling,15379.0
+2019,WA,Total,Landfill,Disposal,444535.0
+2019,WA,Total,Landfill,Energy recovery,92744.0
+2019,WA,Total,Recycling,Recycling,39485.0
+2018,ACT,C&I,Landfill,Disposal,9335.0
+2018,ACT,C&I,Landfill,Energy recovery,7100.0
+2018,ACT,MSW,Landfill,Disposal,20402.0
+2018,ACT,MSW,Landfill,Energy recovery,15518.0
+2018,ACT,Total,Landfill,Disposal,29737.0
+2018,ACT,Total,Landfill,Energy recovery,22618.0
+2018,NSW,C&D,Landfill,Disposal,1.0
+2018,NSW,C&I,Anaerobic digestion,Recycling,43968.0
+2018,NSW,C&I,Landfill,Disposal,139664.0
+2018,NSW,C&I,Landfill,Energy recovery,48315.0
+2018,NSW,C&I,Recycling,Recycling,6892.0
+2018,NSW,MSW,Landfill,Disposal,495375.0
+2018,NSW,MSW,Landfill,Energy recovery,171369.0
+2018,NSW,MSW,Recycling,Recycling,376398.0
+2018,NSW,Total,Anaerobic digestion,Recycling,43968.0
+2018,NSW,Total,Energy from waste facility,Energy recovery,43968.0
+2018,NSW,Total,Landfill,Disposal,635040.0
+2018,NSW,Total,Landfill,Energy recovery,219684.0
+2018,NSW,Total,Recycling,Recycling,339322.0
+2018,NT,C&I,Landfill,Disposal,8329.0
+2018,NT,C&I,Landfill,Energy recovery,1378.0
+2018,NT,MSW,Landfill,Disposal,41647.0
+2018,NT,MSW,Landfill,Energy recovery,6888.0
+2018,NT,Total,Landfill,Disposal,49976.0
+2018,NT,Total,Landfill,Energy recovery,8265.0
+2018,Qld,C&I,Landfill,Disposal,253328.0
+2018,Qld,C&I,Landfill,Energy recovery,88536.0
+2018,Qld,C&I,Recycling,Recycling,49327.0
+2018,Qld,MSW,Landfill,Disposal,460804.0
+2018,Qld,MSW,Landfill,Energy recovery,161047.0
+2018,Qld,Total,Landfill,Disposal,714132.0
+2018,Qld,Total,Landfill,Energy recovery,249583.0
+2018,Qld,Total,Recycling,Recycling,49327.0
+2018,SA,C&I,Landfill,Disposal,24156.0
+2018,SA,C&I,Landfill,Energy recovery,11576.0
+2018,SA,C&I,Recycling,Recycling,12286.0
+2018,SA,MSW,Landfill,Disposal,105927.0
+2018,SA,MSW,Landfill,Energy recovery,50764.0
+2018,SA,Total,Landfill,Disposal,130082.0
+2018,SA,Total,Landfill,Energy recovery,62340.0
+2018,SA,Total,Recycling,Recycling,12286.0
+2018,Vic,C&D,Landfill,Disposal,2095.0
+2018,Vic,C&D,Landfill,Energy recovery,907.0
+2018,Vic,C&D,Recycling,Recycling,1473.0
+2018,Vic,C&I,Anaerobic digestion,Recycling,31379.0
+2018,Vic,C&I,Landfill,Disposal,215725.0
+2018,Vic,C&I,Landfill,Energy recovery,93426.0
+2018,Vic,C&I,Recycling,Recycling,42223.0
+2018,Vic,MSW,Landfill,Disposal,493515.0
+2018,Vic,MSW,Landfill,Energy recovery,213732.0
+2018,Vic,MSW,Recycling,Recycling,46465.0
+2018,Vic,Total,Anaerobic digestion,Recycling,31379.0
+2018,Vic,Total,Energy from waste facility,Energy recovery,31379.0
+2018,Vic,Total,Landfill,Disposal,711335.0
+2018,Vic,Total,Landfill,Energy recovery,308065.0
+2018,Vic,Total,Recycling,Recycling,58782.0
+2018,WA,C&I,Landfill,Disposal,133522.0
+2018,WA,C&I,Landfill,Energy recovery,23605.0
+2018,WA,C&I,Recycling,Recycling,26972.0
+2018,WA,MSW,Landfill,Disposal,295055.0
+2018,WA,MSW,Landfill,Energy recovery,52161.0
+2018,WA,MSW,Recycling,Recycling,47948.0
+2018,WA,Total,Landfill,Disposal,428577.0
+2018,WA,Total,Landfill,Energy recovery,75765.0
+2018,WA,Total,Recycling,Recycling,74920.0
+2017,ACT,C&I,Landfill,Disposal,10139.0
+2017,ACT,C&I,Landfill,Energy recovery,8521.0
+2017,ACT,MSW,Landfill,Disposal,19351.0
+2017,ACT,MSW,Landfill,Energy recovery,16262.0
+2017,ACT,Total,Landfill,Disposal,29491.0
+2017,ACT,Total,Landfill,Energy recovery,24783.0
+2017,NSW,C&D,Landfill,Disposal,169.0
+2017,NSW,C&D,Landfill,Energy recovery,69.0
+2017,NSW,C&I,Anaerobic digestion,Recycling,43968.0
+2017,NSW,C&I,Landfill,Disposal,125822.0
+2017,NSW,C&I,Landfill,Energy recovery,51036.0
+2017,NSW,C&I,Recycling,Recycling,46925.0
+2017,NSW,MSW,Landfill,Disposal,528481.0
+2017,NSW,MSW,Landfill,Energy recovery,214364.0
+2017,NSW,MSW,Recycling,Recycling,347808.0
+2017,NSW,Total,Anaerobic digestion,Recycling,43968.0
+2017,NSW,Total,Energy from waste facility,Energy recovery,43968.0
+2017,NSW,Total,Landfill,Disposal,654472.0
+2017,NSW,Total,Landfill,Energy recovery,265469.0
+2017,NSW,Total,Recycling,Recycling,350766.0
+2017,NT,C&I,Landfill,Disposal,8317.0
+2017,NT,C&I,Landfill,Energy recovery,1304.0
+2017,NT,MSW,Landfill,Disposal,41585.0
+2017,NT,MSW,Landfill,Energy recovery,6521.0
+2017,NT,Total,Landfill,Disposal,49902.0
+2017,NT,Total,Landfill,Energy recovery,7825.0
+2017,Qld,C&I,Landfill,Disposal,258045.0
+2017,Qld,C&I,Landfill,Energy recovery,68642.0
+2017,Qld,C&I,Recycling,Recycling,66045.0
+2017,Qld,MSW,Landfill,Disposal,489786.0
+2017,Qld,MSW,Landfill,Energy recovery,130286.0
+2017,Qld,Total,Landfill,Disposal,747832.0
+2017,Qld,Total,Landfill,Energy recovery,198928.0
+2017,Qld,Total,Recycling,Recycling,66045.0
+2017,SA,C&I,Landfill,Disposal,38866.0
+2017,SA,C&I,Landfill,Energy recovery,17237.0
+2017,SA,C&I,Recycling,Recycling,9058.0
+2017,SA,MSW,Landfill,Disposal,117753.0
+2017,SA,MSW,Landfill,Energy recovery,52222.0
+2017,SA,Total,Landfill,Disposal,156619.0
+2017,SA,Total,Landfill,Energy recovery,69459.0
+2017,SA,Total,Recycling,Recycling,9058.0
+2017,Vic,C&D,Landfill,Disposal,1768.0
+2017,Vic,C&D,Landfill,Energy recovery,1064.0
+2017,Vic,C&D,Recycling,Recycling,582.0
+2017,Vic,C&I,Anaerobic digestion,Recycling,18000.0
+2017,Vic,C&I,Landfill,Disposal,182060.0
+2017,Vic,C&I,Landfill,Energy recovery,109525.0
+2017,Vic,C&I,Recycling,Recycling,42055.0
+2017,Vic,MSW,Landfill,Disposal,451448.0
+2017,Vic,MSW,Landfill,Energy recovery,271586.0
+2017,Vic,MSW,Recycling,Recycling,9135.0
+2017,Vic,Total,Anaerobic digestion,Recycling,18000.0
+2017,Vic,Total,Energy from waste facility,Energy recovery,18000.0
+2017,Vic,Total,Landfill,Disposal,635276.0
+2017,Vic,Total,Landfill,Energy recovery,382175.0
+2017,Vic,Total,Recycling,Recycling,33772.0
+2017,WA,C&I,Landfill,Disposal,130860.0
+2017,WA,C&I,Landfill,Energy recovery,38741.0
+2017,WA,C&I,Recycling,Recycling,27950.0
+2017,WA,MSW,Landfill,Disposal,276467.0
+2017,WA,MSW,Landfill,Energy recovery,81848.0
+2017,WA,MSW,Recycling,Recycling,48439.0
+2017,WA,Total,Landfill,Disposal,407327.0
+2017,WA,Total,Landfill,Energy recovery,120589.0
+2017,WA,Total,Recycling,Recycling,76389.0
+2016,ACT,C&I,Landfill,Disposal,10871.0
+2016,ACT,C&I,Landfill,Energy recovery,5795.0
+2016,ACT,MSW,Landfill,Disposal,23260.0
+2016,ACT,MSW,Landfill,Energy recovery,12400.0
+2016,ACT,Total,Landfill,Disposal,34131.0
+2016,ACT,Total,Landfill,Energy recovery,18196.0
+2016,ACT,Total,Recycling,Recycling,152.0
+2016,NSW,C&D,Landfill,Disposal,17.0
+2016,NSW,C&D,Landfill,Energy recovery,10.0
+2016,NSW,C&I,Anaerobic digestion,Recycling,50000.0
+2016,NSW,C&I,Landfill,Disposal,154677.0
+2016,NSW,C&I,Landfill,Energy recovery,88546.0
+2016,NSW,C&I,Recycling,Recycling,40893.0
+2016,NSW,MSW,Landfill,Disposal,495492.0
+2016,NSW,MSW,Landfill,Energy recovery,283649.0
+2016,NSW,MSW,Recycling,Recycling,350532.0
+2016,NSW,Total,Anaerobic digestion,Recycling,50000.0
+2016,NSW,Total,Energy from waste facility,Energy recovery,50000.0
+2016,NSW,Total,Landfill,Disposal,650185.0
+2016,NSW,Total,Landfill,Energy recovery,372205.0
+2016,NSW,Total,Recycling,Recycling,341425.0
+2016,NT,C&I,Landfill,Disposal,8087.0
+2016,NT,C&I,Landfill,Energy recovery,1274.0
+2016,NT,MSW,Landfill,Disposal,39827.0
+2016,NT,MSW,Landfill,Energy recovery,6274.0
+2016,NT,Total,Landfill,Disposal,47913.0
+2016,NT,Total,Landfill,Energy recovery,7548.0
+2016,Qld,C&I,Landfill,Disposal,250398.0
+2016,Qld,C&I,Landfill,Energy recovery,59548.0
+2016,Qld,MSW,Landfill,Disposal,511372.0
+2016,Qld,MSW,Landfill,Energy recovery,121611.0
+2016,Qld,Total,Landfill,Disposal,761770.0
+2016,Qld,Total,Landfill,Energy recovery,181159.0
+2016,Qld,Total,Recycling,Recycling,68635.0
+2016,SA,C&I,Landfill,Disposal,29267.0
+2016,SA,C&I,Landfill,Energy recovery,6216.0
+2016,SA,C&I,Recycling,Recycling,8100.0
+2016,SA,MSW,Landfill,Disposal,144359.0
+2016,SA,MSW,Landfill,Energy recovery,30662.0
+2016,SA,Total,Landfill,Disposal,173625.0
+2016,SA,Total,Landfill,Energy recovery,36878.0
+2016,SA,Total,Recycling,Recycling,8100.0
+2016,Vic,C&D,Recycling,Recycling,882.0
+2016,Vic,C&I,Landfill,Disposal,177810.0
+2016,Vic,C&I,Landfill,Energy recovery,84405.0
+2016,Vic,C&I,Recycling,Recycling,29736.0
+2016,Vic,MSW,Landfill,Disposal,576423.0
+2016,Vic,MSW,Landfill,Energy recovery,273624.0
+2016,Vic,MSW,Recycling,Recycling,7059.0
+2016,Vic,Total,Landfill,Disposal,754232.0
+2016,Vic,Total,Landfill,Energy recovery,358030.0
+2016,Vic,Total,Recycling,Recycling,37677.0
+2016,WA,C&I,Landfill,Disposal,133190.0
+2016,WA,C&I,Landfill,Energy recovery,32301.0
+2016,WA,C&I,Recycling,Recycling,45782.0
+2016,WA,MSW,Landfill,Disposal,305642.0
+2016,WA,MSW,Landfill,Energy recovery,74124.0
+2016,WA,MSW,Recycling,Recycling,48252.0
+2016,WA,Total,Landfill,Disposal,438832.0
+2016,WA,Total,Landfill,Energy recovery,106426.0
+2016,WA,Total,Recycling,Recycling,94034.0
+2015,ACT,C&I,Landfill,Disposal,10553.0
+2015,ACT,C&I,Landfill,Energy recovery,6268.0
+2015,ACT,MSW,Landfill,Disposal,21937.0
+2015,ACT,MSW,Landfill,Energy recovery,13030.0
+2015,ACT,Total,Landfill,Disposal,32490.0
+2015,ACT,Total,Landfill,Energy recovery,19298.0
+2015,NSW,C&D,Landfill,Disposal,27.0
+2015,NSW,C&D,Landfill,Energy recovery,19.0
+2015,NSW,C&I,Anaerobic digestion,Recycling,50000.0
+2015,NSW,C&I,Landfill,Disposal,134048.0
+2015,NSW,C&I,Landfill,Energy recovery,94622.0
+2015,NSW,C&I,Recycling,Recycling,105627.0
+2015,NSW,MSW,Landfill,Disposal,427778.0
+2015,NSW,MSW,Landfill,Energy recovery,301963.0
+2015,NSW,MSW,Recycling,Recycling,187175.0
+2015,NSW,Total,Anaerobic digestion,Recycling,50000.0
+2015,NSW,Total,Energy from waste facility,Energy recovery,50000.0
+2015,NSW,Total,Landfill,Disposal,561853.0
+2015,NSW,Total,Landfill,Energy recovery,396604.0
+2015,NSW,Total,Recycling,Recycling,242803.0
+2015,NT,C&I,Landfill,Disposal,7074.0
+2015,NT,C&I,Landfill,Energy recovery,1176.0
+2015,NT,MSW,Landfill,Disposal,34838.0
+2015,NT,MSW,Landfill,Energy recovery,5794.0
+2015,NT,Total,Landfill,Disposal,41912.0
+2015,NT,Total,Landfill,Energy recovery,6971.0
+2015,Qld,C&I,Landfill,Disposal,275687.0
+2015,Qld,C&I,Landfill,Energy recovery,44847.0
+2015,Qld,MSW,Landfill,Disposal,517906.0
+2015,Qld,MSW,Landfill,Energy recovery,84250.0
+2015,Qld,Total,Landfill,Disposal,793593.0
+2015,Qld,Total,Landfill,Energy recovery,129097.0
+2015,Qld,Total,Recycling,Recycling,19149.0
+2015,SA,C&I,Landfill,Disposal,25675.0
+2015,SA,C&I,Landfill,Energy recovery,9603.0
+2015,SA,C&I,Recycling,Recycling,7900.0
+2015,SA,MSW,Landfill,Disposal,132750.0
+2015,SA,MSW,Landfill,Energy recovery,49651.0
+2015,SA,Total,Landfill,Disposal,158425.0
+2015,SA,Total,Landfill,Energy recovery,59253.0
+2015,SA,Total,Recycling,Recycling,7900.0
+2015,Vic,C&D,Recycling,Recycling,931.0
+2015,Vic,C&I,Landfill,Disposal,161848.0
+2015,Vic,C&I,Landfill,Energy recovery,100307.0
+2015,Vic,C&I,Recycling,Recycling,68476.0
+2015,Vic,MSW,Landfill,Disposal,507414.0
+2015,Vic,MSW,Landfill,Energy recovery,314474.0
+2015,Vic,MSW,Recycling,Recycling,4611.0
+2015,Vic,Total,Landfill,Disposal,669262.0
+2015,Vic,Total,Landfill,Energy recovery,414781.0
+2015,Vic,Total,Recycling,Recycling,74018.0
+2015,WA,C&I,Landfill,Disposal,153331.0
+2015,WA,C&I,Landfill,Energy recovery,28314.0
+2015,WA,C&I,Recycling,Recycling,37195.0
+2015,WA,MSW,Landfill,Disposal,329821.0
+2015,WA,MSW,Landfill,Energy recovery,60905.0
+2015,WA,MSW,Recycling,Recycling,53954.0
+2015,WA,Total,Landfill,Disposal,483152.0
+2015,WA,Total,Landfill,Energy recovery,89219.0
+2015,WA,Total,Recycling,Recycling,91149.0
+2014,ACT,C&D,Landfill,Disposal,38.0
+2014,ACT,C&I,Landfill,Disposal,21154.0
+2014,ACT,C&I,Landfill,Energy recovery,5124.0
+2014,ACT,C&I,Recycling,Recycling,391.0
+2014,ACT,MSW,Landfill,Disposal,22011.0
+2014,ACT,MSW,Landfill,Energy recovery,11574.0
+2014,ACT,Total,Landfill,Disposal,43203.0
+2014,ACT,Total,Landfill,Energy recovery,16698.0
+2014,ACT,Total,Recycling,Recycling,391.0
+2014,NSW,C&D,Landfill,Disposal,184.0
+2014,NSW,C&D,Landfill,Energy recovery,48.0
+2014,NSW,C&I,Anaerobic digestion,Recycling,30244.0
+2014,NSW,C&I,Landfill,Disposal,170548.0
+2014,NSW,C&I,Landfill,Energy recovery,49772.0
+2014,NSW,C&I,Recycling,Recycling,88756.0
+2014,NSW,MSW,Landfill,Disposal,640685.0
+2014,NSW,MSW,Landfill,Energy recovery,189598.0
+2014,NSW,MSW,Recycling,Recycling,188000.0
+2014,NSW,Total,Anaerobic digestion,Recycling,30244.0
+2014,NSW,Total,Energy from waste facility,Energy recovery,30244.0
+2014,NSW,Total,Landfill,Disposal,811418.0
+2014,NSW,Total,Landfill,Energy recovery,239418.0
+2014,NSW,Total,Recycling,Recycling,246512.0
+2014,NT,C&I,Landfill,Disposal,9760.0
+2014,NT,C&I,Landfill,Energy recovery,1312.0
+2014,NT,MSW,Landfill,Disposal,48066.0
+2014,NT,MSW,Landfill,Energy recovery,6460.0
+2014,NT,Total,Landfill,Disposal,57825.0
+2014,NT,Total,Landfill,Energy recovery,7771.0
+2014,Qld,C&I,Landfill,Disposal,287595.0
+2014,Qld,C&I,Landfill,Energy recovery,39058.0
+2014,Qld,C&I,Recycling,Recycling,52733.0
+2014,Qld,MSW,Landfill,Disposal,526821.0
+2014,Qld,MSW,Landfill,Energy recovery,71547.0
+2014,Qld,MSW,Recycling,Recycling,15459.0
+2014,Qld,Total,Landfill,Disposal,814416.0
+2014,Qld,Total,Landfill,Energy recovery,110606.0
+2014,Qld,Total,Recycling,Recycling,68192.0
+2014,SA,C&I,Landfill,Disposal,20826.0
+2014,SA,C&I,Landfill,Energy recovery,15433.0
+2014,SA,MSW,Landfill,Disposal,53167.0
+2014,SA,MSW,Landfill,Energy recovery,39399.0
+2014,SA,MSW,Recycling,Recycling,8000.0
+2014,SA,Total,Landfill,Disposal,73993.0
+2014,SA,Total,Landfill,Energy recovery,54832.0
+2014,SA,Total,Recycling,Recycling,8000.0
+2014,Vic,C&I,Landfill,Disposal,157011.0
+2014,Vic,C&I,Landfill,Energy recovery,88727.0
+2014,Vic,C&I,Recycling,Recycling,65715.0
+2014,Vic,MSW,Landfill,Disposal,588522.0
+2014,Vic,MSW,Landfill,Energy recovery,332573.0
+2014,Vic,MSW,Recycling,Recycling,15299.0
+2014,Vic,Total,Landfill,Disposal,745533.0
+2014,Vic,Total,Landfill,Energy recovery,421300.0
+2014,Vic,Total,Recycling,Recycling,81014.0
+2014,WA,C&I,Landfill,Disposal,112783.0
+2014,WA,C&I,Landfill,Energy recovery,33337.0
+2014,WA,C&I,Recycling,Recycling,12135.0
+2014,WA,MSW,Landfill,Disposal,292507.0
+2014,WA,MSW,Landfill,Energy recovery,86460.0
+2014,WA,MSW,Recycling,Recycling,71067.0
+2014,WA,Total,Landfill,Disposal,405291.0
+2014,WA,Total,Landfill,Energy recovery,119797.0
+2014,WA,Total,Recycling,Recycling,83202.0
+2013,ACT,C&D,Landfill,Disposal,819.0
+2013,ACT,C&I,Landfill,Disposal,9426.0
+2013,ACT,C&I,Landfill,Energy recovery,2233.0
+2013,ACT,MSW,Landfill,Disposal,23166.0
+2013,ACT,MSW,Landfill,Energy recovery,11854.0
+2013,ACT,Total,Landfill,Disposal,33411.0
+2013,ACT,Total,Landfill,Energy recovery,14087.0
+2013,ACT,Total,Recycling,Recycling,382.0
+2013,NSW,C&D,Landfill,Disposal,46.0
+2013,NSW,C&D,Landfill,Energy recovery,6.0
+2013,NSW,C&I,Anaerobic digestion,Recycling,30244.0
+2013,NSW,C&I,Landfill,Disposal,197726.0
+2013,NSW,C&I,Landfill,Energy recovery,28997.0
+2013,NSW,MSW,Landfill,Disposal,1121302.0
+2013,NSW,MSW,Landfill,Energy recovery,167664.0
+2013,NSW,Total,Energy from waste facility,Energy recovery,30244.0
+2013,NSW,Total,Landfill,Disposal,1319074.0
+2013,NSW,Total,Landfill,Energy recovery,196667.0
+2013,NT,C&I,Landfill,Disposal,12552.0
+2013,NT,C&I,Landfill,Energy recovery,1572.0
+2013,NT,MSW,Landfill,Disposal,61818.0
+2013,NT,MSW,Landfill,Energy recovery,7742.0
+2013,NT,Total,Landfill,Disposal,74370.0
+2013,NT,Total,Landfill,Energy recovery,9314.0
+2013,Qld,C&I,Landfill,Disposal,264230.0
+2013,Qld,C&I,Landfill,Energy recovery,54126.0
+2013,Qld,MSW,Landfill,Disposal,484137.0
+2013,Qld,MSW,Landfill,Energy recovery,99172.0
+2013,Qld,Total,Landfill,Disposal,748367.0
+2013,Qld,Total,Landfill,Energy recovery,153298.0
+2013,Qld,Total,Recycling,Recycling,37786.0
+2013,SA,C&I,Landfill,Disposal,38085.0
+2013,SA,C&I,Landfill,Energy recovery,13170.0
+2013,SA,MSW,Landfill,Disposal,97231.0
+2013,SA,MSW,Landfill,Energy recovery,33622.0
+2013,SA,Total,Landfill,Disposal,135317.0
+2013,SA,Total,Landfill,Energy recovery,46792.0
+2013,SA,Total,Recycling,Recycling,7000.0
+2013,Vic,C&I,Landfill,Disposal,139521.0
+2013,Vic,C&I,Landfill,Energy recovery,100107.0
+2013,Vic,C&I,Recycling,Recycling,73360.0
+2013,Vic,MSW,Landfill,Disposal,521754.0
+2013,Vic,MSW,Landfill,Energy recovery,374361.0
+2013,Vic,Total,Landfill,Disposal,661275.0
+2013,Vic,Total,Landfill,Energy recovery,474467.0
+2013,Vic,Total,Recycling,Recycling,73360.0
+2013,WA,C&I,Landfill,Disposal,171754.0
+2013,WA,C&I,Landfill,Energy recovery,36203.0
+2013,WA,C&I,Recycling,Recycling,12553.0
+2013,WA,MSW,Landfill,Disposal,303323.0
+2013,WA,MSW,Landfill,Energy recovery,63935.0
+2013,WA,MSW,Recycling,Recycling,44795.0
+2013,WA,Total,Landfill,Disposal,475077.0
+2013,WA,Total,Landfill,Energy recovery,100137.0
+2013,WA,Total,Recycling,Recycling,57348.0
+2010,ACT,C&D,Landfill,Disposal,1485.0
+2010,ACT,C&D,Landfill,Energy recovery,461.0
+2010,ACT,C&I,Landfill,Disposal,9220.0
+2010,ACT,C&I,Landfill,Energy recovery,2864.0
+2010,ACT,MSW,Landfill,Disposal,26986.0
+2010,ACT,MSW,Landfill,Energy recovery,8382.0
+2010,ACT,Total,Landfill,Disposal,37691.0
+2010,ACT,Total,Landfill,Energy recovery,11707.0
+2010,ACT,Total,Recycling,Recycling,647.0
+2010,NSW,C&I,Landfill,Disposal,395746.0
+2010,NSW,C&I,Landfill,Energy recovery,124362.0
+2010,NSW,MSW,Landfill,Disposal,758820.0
+2010,NSW,MSW,Landfill,Energy recovery,238457.0
+2010,NSW,Total,Landfill,Disposal,1154567.0
+2010,NSW,Total,Landfill,Energy recovery,362818.0
+2010,NT,C&I,Landfill,Disposal,7303.0
+2010,NT,C&I,Landfill,Energy recovery,1512.0
+2010,NT,MSW,Landfill,Disposal,35969.0
+2010,NT,MSW,Landfill,Energy recovery,7446.0
+2010,NT,Total,Landfill,Disposal,43272.0
+2010,NT,Total,Landfill,Energy recovery,8958.0
+2010,Qld,C&I,Landfill,Disposal,226299.0
+2010,Qld,C&I,Landfill,Energy recovery,24724.0
+2010,Qld,MSW,Landfill,Disposal,544456.0
+2010,Qld,MSW,Landfill,Energy recovery,59484.0
+2010,Qld,Total,Landfill,Disposal,770755.0
+2010,Qld,Total,Landfill,Energy recovery,84208.0
+2010,SA,C&I,Landfill,Disposal,31216.0
+2010,SA,C&I,Landfill,Energy recovery,15831.0
+2010,SA,MSW,Landfill,Disposal,85192.0
+2010,SA,MSW,Landfill,Energy recovery,43206.0
+2010,SA,Total,Landfill,Disposal,116408.0
+2010,SA,Total,Landfill,Energy recovery,59038.0
+2010,SA,Total,Recycling,Recycling,4400.0
+2010,Vic,C&I,Landfill,Disposal,223334.0
+2010,Vic,C&I,Landfill,Energy recovery,63448.0
+2010,Vic,C&I,Recycling,Recycling,22368.0
+2010,Vic,MSW,Landfill,Disposal,756405.0
+2010,Vic,MSW,Landfill,Energy recovery,214891.0
+2010,Vic,Total,Landfill,Disposal,979739.0
+2010,Vic,Total,Landfill,Energy recovery,278339.0
+2010,Vic,Total,Recycling,Recycling,22368.0
+2010,WA,C&I,Landfill,Disposal,196387.0
+2010,WA,C&I,Landfill,Energy recovery,28723.0
+2010,WA,MSW,Landfill,Disposal,355321.0
+2010,WA,MSW,Landfill,Energy recovery,51968.0
+2010,WA,Total,Landfill,Disposal,551708.0
+2010,WA,Total,Landfill,Energy recovery,80691.0
+2010,WA,Total,Recycling,Recycling,14338.0
+2009,ACT,C&D,Landfill,Disposal,1025.0
+2009,ACT,C&D,Landfill,Energy recovery,450.0
+2009,ACT,C&I,Landfill,Disposal,6585.0
+2009,ACT,C&I,Landfill,Energy recovery,2891.0
+2009,ACT,MSW,Landfill,Disposal,18918.0
+2009,ACT,MSW,Landfill,Energy recovery,8306.0
+2009,ACT,Total,Landfill,Disposal,26528.0
+2009,ACT,Total,Landfill,Energy recovery,11647.0
+2009,NSW,C&I,Landfill,Disposal,362837.0
+2009,NSW,C&I,Landfill,Energy recovery,111573.0
+2009,NSW,MSW,Landfill,Disposal,737118.0
+2009,NSW,MSW,Landfill,Energy recovery,207690.0
+2009,NSW,Total,Landfill,Disposal,1099955.0
+2009,NSW,Total,Landfill,Energy recovery,319263.0
+2009,NT,C&I,Landfill,Disposal,7228.0
+2009,NT,C&I,Landfill,Energy recovery,1887.0
+2009,NT,MSW,Landfill,Disposal,35597.0
+2009,NT,MSW,Landfill,Energy recovery,9295.0
+2009,NT,Total,Landfill,Disposal,42825.0
+2009,NT,Total,Landfill,Energy recovery,11182.0
+2009,Qld,C&I,Landfill,Disposal,255870.0
+2009,Qld,C&I,Landfill,Energy recovery,31812.0
+2009,Qld,MSW,Landfill,Disposal,534196.0
+2009,Qld,MSW,Landfill,Energy recovery,66416.0
+2009,Qld,Total,Landfill,Disposal,790067.0
+2009,Qld,Total,Landfill,Energy recovery,98228.0
+2009,SA,C&I,Landfill,Disposal,40572.0
+2009,SA,C&I,Landfill,Energy recovery,16398.0
+2009,SA,MSW,Landfill,Disposal,110695.0
+2009,SA,MSW,Landfill,Energy recovery,44740.0
+2009,SA,Total,Landfill,Disposal,151267.0
+2009,SA,Total,Landfill,Energy recovery,61138.0
+2009,SA,Total,Recycling,Recycling,5800.0
+2009,Vic,C&I,Landfill,Disposal,227184.0
+2009,Vic,C&I,Landfill,Energy recovery,50591.0
+2009,Vic,C&I,Recycling,Recycling,31971.0
+2009,Vic,MSW,Landfill,Disposal,796741.0
+2009,Vic,MSW,Landfill,Energy recovery,177425.0
+2009,Vic,Total,Landfill,Disposal,1023925.0
+2009,Vic,Total,Landfill,Energy recovery,228017.0
+2009,Vic,Total,Recycling,Recycling,31971.0
+2009,WA,C&I,Landfill,Disposal,273221.0
+2009,WA,C&I,Landfill,Energy recovery,31654.0
+2009,WA,MSW,Landfill,Disposal,486322.0
+2009,WA,MSW,Landfill,Energy recovery,56342.0
+2009,WA,Total,Landfill,Disposal,759544.0
+2009,WA,Total,Landfill,Energy recovery,87996.0
+2009,WA,Total,Recycling,Recycling,7453.0
+2008,ACT,C&D,Landfill,Disposal,725.0
+2008,ACT,C&D,Landfill,Energy recovery,318.0
+2008,ACT,C&I,Landfill,Disposal,6269.0
+2008,ACT,C&I,Landfill,Energy recovery,2753.0
+2008,ACT,MSW,Landfill,Disposal,25390.0
+2008,ACT,MSW,Landfill,Energy recovery,11147.0
+2008,ACT,Total,Landfill,Disposal,32384.0
+2008,ACT,Total,Landfill,Energy recovery,14218.0
+2008,NSW,C&I,Landfill,Disposal,499164.0
+2008,NSW,C&I,Landfill,Energy recovery,113208.0
+2008,NSW,MSW,Landfill,Disposal,881687.0
+2008,NSW,MSW,Landfill,Energy recovery,199962.0
+2008,NSW,Total,Landfill,Disposal,1380851.0
+2008,NSW,Total,Landfill,Energy recovery,313170.0
+2008,NT,C&I,Landfill,Disposal,7149.0
+2008,NT,C&I,Landfill,Energy recovery,1800.0
+2008,NT,MSW,Landfill,Disposal,35208.0
+2008,NT,MSW,Landfill,Energy recovery,8867.0
+2008,NT,Total,Landfill,Disposal,42357.0
+2008,NT,Total,Landfill,Energy recovery,10667.0
+2008,Qld,C&I,Landfill,Disposal,268854.0
+2008,Qld,C&I,Landfill,Energy recovery,28541.0
+2008,Qld,MSW,Landfill,Disposal,581878.0
+2008,Qld,MSW,Landfill,Energy recovery,61772.0
+2008,Qld,Total,Landfill,Disposal,850732.0
+2008,Qld,Total,Landfill,Energy recovery,90313.0
+2008,SA,C&I,Landfill,Disposal,45535.0
+2008,SA,C&I,Landfill,Energy recovery,16511.0
+2008,SA,MSW,Landfill,Disposal,124236.0
+2008,SA,MSW,Landfill,Energy recovery,45047.0
+2008,SA,Total,Landfill,Disposal,169771.0
+2008,SA,Total,Landfill,Energy recovery,61558.0
+2008,SA,Total,Recycling,Recycling,4820.0
+2008,Vic,C&I,Landfill,Disposal,344832.0
+2008,Vic,C&I,Landfill,Energy recovery,79873.0
+2008,Vic,C&I,Recycling,Recycling,12546.0
+2008,Vic,MSW,Landfill,Disposal,646826.0
+2008,Vic,MSW,Landfill,Energy recovery,149823.0
+2008,Vic,Total,Landfill,Disposal,991658.0
+2008,Vic,Total,Landfill,Energy recovery,229695.0
+2008,Vic,Total,Recycling,Recycling,12546.0
+2008,WA,C&I,Landfill,Disposal,198718.0
+2008,WA,C&I,Landfill,Energy recovery,41518.0
+2008,WA,MSW,Landfill,Disposal,356499.0
+2008,WA,MSW,Landfill,Energy recovery,74483.0
+2008,WA,Total,Landfill,Disposal,555217.0
+2008,WA,Total,Landfill,Energy recovery,116000.0
+2008,WA,Total,Recycling,Recycling,7177.0
+2006,ACT,C&D,Landfill,Disposal,513.0
+2006,ACT,C&D,Landfill,Energy recovery,275.0
+2006,ACT,C&I,Landfill,Disposal,5731.0
+2006,ACT,C&I,Landfill,Energy recovery,3070.0
+2006,ACT,MSW,Landfill,Disposal,30174.0
+2006,ACT,MSW,Landfill,Energy recovery,16161.0
+2006,ACT,Total,Landfill,Disposal,36418.0
+2006,ACT,Total,Landfill,Energy recovery,19505.0
+2006,NSW,C&I,Landfill,Disposal,409897.0
+2006,NSW,C&I,Landfill,Energy recovery,111749.0
+2006,NSW,MSW,Landfill,Disposal,783637.0
+2006,NSW,MSW,Landfill,Energy recovery,213640.0
+2006,NSW,Total,Landfill,Disposal,1193534.0
+2006,NSW,Total,Landfill,Energy recovery,325389.0
+2006,NT,C&I,Landfill,Disposal,12685.0
+2006,NT,C&I,Landfill,Energy recovery,1510.0
+2006,NT,MSW,Landfill,Disposal,62474.0
+2006,NT,MSW,Landfill,Energy recovery,7438.0
+2006,NT,Total,Landfill,Disposal,75159.0
+2006,NT,Total,Landfill,Energy recovery,8948.0
+2006,Qld,C&I,Landfill,Disposal,246950.0
+2006,Qld,C&I,Landfill,Energy recovery,35163.0
+2006,Qld,MSW,Landfill,Disposal,534472.0
+2006,Qld,MSW,Landfill,Energy recovery,76103.0
+2006,Qld,Total,Landfill,Disposal,781423.0
+2006,Qld,Total,Landfill,Energy recovery,111266.0
+2006,SA,C&I,Landfill,Disposal,41243.0
+2006,SA,C&I,Landfill,Energy recovery,24045.0
+2006,SA,MSW,Landfill,Disposal,114998.0
+2006,SA,MSW,Landfill,Energy recovery,67043.0
+2006,SA,Total,Landfill,Disposal,156241.0
+2006,SA,Total,Landfill,Energy recovery,91088.0
+2006,SA,Total,Recycling,Recycling,3981.0
+2006,Vic,C&I,Landfill,Disposal,359708.0
+2006,Vic,C&I,Landfill,Energy recovery,75398.0
+2006,Vic,C&I,Recycling,Recycling,35473.0
+2006,Vic,MSW,Landfill,Disposal,699022.0
+2006,Vic,MSW,Landfill,Energy recovery,146522.0
+2006,Vic,Total,Landfill,Disposal,1058731.0
+2006,Vic,Total,Landfill,Energy recovery,221920.0
+2006,Vic,Total,Recycling,Recycling,35473.0
+2006,WA,C&I,Landfill,Disposal,196668.0
+2006,WA,C&I,Landfill,Energy recovery,36813.0
+2006,WA,MSW,Landfill,Disposal,351739.0
+2006,WA,MSW,Landfill,Energy recovery,65839.0
+2006,WA,Total,Landfill,Disposal,548407.0
+2006,WA,Total,Landfill,Energy recovery,102652.0
